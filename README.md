@@ -208,3 +208,6 @@ PirateBrowser is the complete free version, offering all features and updates wi
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-14 23:40:47 UTC
